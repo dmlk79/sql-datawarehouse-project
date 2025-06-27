@@ -1,3 +1,4 @@
+
 /*
 =============================================================
 Create Database and Schemas
@@ -11,7 +12,13 @@ You should first manually create DB DataWarehouse, then connect to it in pgAdmin
 */
 
 
+/* Manually create DB DataWarehouse, then connect to it in pgAdmin or psql */
+
+
 -- Create schemas
 CREATE SCHEMA bronze;
 CREATE SCHEMA silver;
 CREATE SCHEMA gold;
+
+
+
