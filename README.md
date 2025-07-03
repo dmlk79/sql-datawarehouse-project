@@ -98,7 +98,7 @@ data-warehouse-project/
 
 ## ☕ Stay Connected
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
+Let's stay in touch! Feel free to connect with me on Linkedin.
 Hi there ! I am El Hadji Dame Lo KABA IT Engineer / data scientist / machine learning Engineer/ data Engineer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/el-hadji-dame-lo-kaba-02597a319/)
