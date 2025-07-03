@@ -81,8 +81,10 @@ data-warehouse-project/
 │   ├── dwh-architecture.png            # file shows the project's architecture
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
 │   ├── dataflow.png                    # file for the data flow diagram
-│   ├── data_models.png             # file for data models (star schema)
+│   ├── data_models.png                 # file for data models (star schema)
+│   ├── integration-model.png           # file for integration models (relationship between tables) 
 │   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
+  
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
 │   ├── bronze/                         # Scripts for extracting and loading raw data
