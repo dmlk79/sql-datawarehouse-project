@@ -16,7 +16,7 @@ Usage Example:
     CALL bronze.load_bronze();
 
 WARNING:
-	You should create a /tmp directory from your terminal where you copy all the data to allows postgres
+	You should create a /tmp directory from your terminal where you copy all the source systems datasets to allows postgres
 		to access it for the "COPY" in the stored procedure.
 ===============================================================================
 */
